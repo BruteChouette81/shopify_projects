@@ -21,11 +21,6 @@ import {FOOTER_QUERY, HEADER_QUERY} from '~/lib/fragments';
 
 import { Seo } from '@shopify/hydrogen';
 
-
-
-//public key: d0342d7eda4263729b4c9b241a3ed44a
-//private key: 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
-
 //setup international sales chanel with @inContext in queries
 //for cart, use buyerIdentity to customize the check out
 //athletix: custom query for japan
